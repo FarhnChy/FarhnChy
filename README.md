@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Farhan. I'm a Computer Engineering student at Stony Brook University interested in embedded systems, and software engineering.<br> <br>I have been working on BMO Buddy, a Raspberry Pi fridge-monitoring system, and improving Courtside, my NBA tracking web app. <br>I’m interested in contributing to open-source projects and collaborating on embedded systems, developer tools, and practical software.
+Hi, I’m Farhan. I'm a Computer Engineering student at Stony Brook University interested in embedded systems, and software engineering.<br> <br>I have been working on BMO Buddy, a Raspberry Pi fridge-monitoring system, and improving Courtside, my NBA tracking web app. <br><br>I’m interested in contributing to open-source projects and collaborating on embedded systems, developer tools, and practical software.
 
 
 ## 🌐 Socials:
