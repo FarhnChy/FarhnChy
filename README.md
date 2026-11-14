@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farhan Chowdhury</h1>
 <h3 align="center">Computer Engineering student building software, embedded systems, and digital hardware</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhnchy" alt="farhnchy" /></a> </p>
-
 - 🌱 I’m currently learning **Verilog / SystemVerilog, RTL design, deeper C/C++, and embedded systems**
 
 <h3 align="left">Connect with me:</h3>
